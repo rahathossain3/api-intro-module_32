@@ -19,5 +19,5 @@ const shop = {
 const shopStringified = JSON.stringify(shop);   //string er moto hoye ja ... kno property use kora jay na.
 // console.log(shop);
 console.log(shopStringified);
-const converted = JSON.parse(shopStringified);  // string ke object akar r dey .. fole er property use kora jay
+const converted = JSON.parse(shopStringified);  // string ke object akar r dey .. fole er property use kora jay.
 console.log(converted);
